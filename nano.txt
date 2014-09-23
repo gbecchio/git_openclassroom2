@@ -1,1 +1,2 @@
 Nano est un éditeur de textes en mode commande.
+Il est moins puissant que VIM.
