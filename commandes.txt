@@ -1,3 +1,4 @@
 Le commandes les plus importantes de git sont:
-1) clone)
-2) pull
+1) clone (récupère le répertoire)
+2) pull (récupère le fichiers indexés de l'origine vers notre repertoire local)
+3) commit
