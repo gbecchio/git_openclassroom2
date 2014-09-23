@@ -1,0 +1,2 @@
+Le commandes les plus importantes de git sont:
+1) clone
